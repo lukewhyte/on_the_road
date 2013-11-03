@@ -1,5 +1,3 @@
-Built using the Google Maps API, On The Road is a responsive, map-based WordPress theme designed with the traveler in mind. Bloggers can tag posts to a interactive map with customizable markers. Readers can then access posts via the map, visualize the route of travel and see the location of specific posts.
-
 <h1>On The Road theme for WordPress > 3.0</h1>
 Built using the Google Maps API, On The Road is a responsive, map-based WordPress theme designed with the traveler in mind. Bloggers can tag posts to a interactive map with customizable markers. Readers can then access posts via the map, visualize the route of travel and see the location of specific posts. (http://lukeallanwhyte.com/on_the_road.html)
 
