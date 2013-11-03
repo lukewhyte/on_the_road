@@ -4,7 +4,7 @@ Built using the Google Maps API, On The Road is a responsive, map-based WordPres
 <h2>Getting Started:</h2>
 <ul>
   <li>Download the theme and place in wp-content > themes</li>
-  <li>Open WordPress dashboard and got to Appearance > On The Road</li>
+  <li>Open WordPress dashboard and go to Appearance > On The Road</li>
   <li>Follow the instructions for obtaining a Google Maps API key</li>
 </ul>
  

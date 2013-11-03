@@ -36,10 +36,6 @@ function addMapData(map) { // addMapData() is called by initalize()
         markersArray = rawString.split("*");
     markersArray.pop(); // The last element is empty
     for (i = 0; i < markersArray.length; i++) {
-      /* var coords = between(markersArray[i], "latlng:", "name:");
-      if (coords.length == 0) { // If the post did not obtain coordinates, remove it from the array
-        markersArray.splice(markersArray[i], 1);
-      } */
       markersArray[i] = createMarkerObjects(markersArray[i]);
     }
     return markersArray;
